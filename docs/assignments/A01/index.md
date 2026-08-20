@@ -6,8 +6,8 @@ To build a professional portfolio.
 ## Analyze
 ### Task A - Analyzing Portfolios 
 **Portfolio #1** - https://instructure.charlotte.edu/eportfolios/4239/home/about-me
-**A. Navigability: **As a reader, yes I can navigate any assignment in 60 seconds or less. 
-**B. Reproducibility: ** Yes. I decided to look at Assignment 5: Bracket Design. Devin was clear on his knowns, assumptions and descriptions of each part during the analysis of each component of his design. He also gave multi-view drawings with specific dimensions. 
+**A. Navigability:** As a reader, yes I can navigate any assignment in 60 seconds or less. 
+**B. Reproducibility:** Yes. I decided to look at Assignment 5: Bracket Design. Devin was clear on his knowns, assumptions and descriptions of each part during the analysis of each component of his design. He also gave multi-view drawings with specific dimensions. 
 **C. Evidence of Reasoning:** Yes, the given portfolio shows how decisions were made. He gave his clear unknown and using what he does know he found, an example would be the Stress and Stiffness analysis. He used his calculated information is very strategic steps building off the previous one to get a conclusion. 
 **D. Professional Tone:** Yes, I would consider this a professional tone based on my actual knowledge of professionalism. 
 
