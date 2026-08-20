@@ -1,2 +1,11 @@
-#About Me
-This is how to edit
+# About Me!
+![Description of image](1761330116874.jpg)
+
+Hi everyone! My name is Gracie Steelmon, I'm a 3rd-year mechanical engineering student at the University of North Carolina at Charlotte. I plan to use this page as way of communication to others about my assignments for MEGR 2157! 
+
+Ever since I was a young girl, I have always dreamed of being a fighter pilot. The speed, adrenaline, and difficulty drew me closer. I also wanted to be an engineer, whatever that meant during that time to a 10-year-old. As the college era of my life grew closer, I had to make a decision, and so naturally I chose mechanical engineering! All while fueling my fire for the aerospace community (pun intended) I was blessed with an opportunity for an internship at US Conec Ltd during the summer of 2026. Starting as a Materials engineering intern I was "accidentally" exposed to the great world of Metrology. As the saying goes, nobody grows up wanting to be a metrology engineer, you accidentally slip into it. This has been one of the biggest changes to me as an engineer, and one of the biggest blessings in my career. Ever since then, I have been absolutely hooked and have found the niche love of metrology process development! Process development is something I have been participating in since I was younger without even realizing it. Process development is an absolute and necessary step in all aspects of engineering. I also enjoy the research and data side of engineering. This world revolves around data! Learning to gather, clean, manipulate and present data is one of the most important skills you can possess as an engineer. I take pride in being able to present data clearly and concise to other individuals. 
+
+# What it means to defend an engineering decision: and how I currently do it
+To defend an engineering decision to me comes with great responsibility. Defending comes with knowledge of your decision, doing research and collecting data to present to others in a clear and professional matter. In industry making a decision can cost lives, lots of money, and great conflict. 
+
+I spent an estimated 5 hours completing this assignment, due to research, clarifying questions I had with TAs, and revising all work. 
