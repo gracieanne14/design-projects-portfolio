@@ -9,13 +9,13 @@ To build a professional portfolio.
 **A. Navigability: **As a reader, yes I can navigate any assignment in 60 seconds or less. 
 **B. Reproducibility: ** Yes. I decided to look at Assignment 5: Bracket Design. Devin was clear on his knowns, assumptions and descriptions of each part during the analysis of each component of his design. He also gave multi-view drawings with specific dimensions. 
 **C. Evidence of Reasoning:** Yes, the given portfolio shows how decisions were made. He gave his clear unknown and using what he does know he found, an example would be the Stress and Stiffness analysis. He used his calculated information is very strategic steps building off the previous one to get a conclusion. 
-**D. Professional Tone:** Yes, I would consider this a professional tone. 
+**D. Professional Tone:** Yes, I would consider this a professional tone based on my actual knowledge of professionalism. 
 
 **Portfolio #2** - https://github.com/vsmidhun21/portfolio
-**A. Navigability:** Initially once I visited Midhunds GitHub site it took me some time to find his portfolio. Once I found it I could easily navigate his projects and contact information as it was in very bold letters at the top. 
+**A. Navigability:** Initially once I visited Midhund's GitHub site it took me some time to find his portfolio. Once I found it I could easily navigate his projects and contact information as it was in very bold letters at the top. 
 **B. Reproducibility:** Although this engineer has projects listed, they are a very brief description (as in a sentence) about what he created. This is not enough information for someone to repeat this project. 
 **C. Evidence of Reasoning:** This portfolio does not show much of anything, except contact information. He does have a resume attached but that is another link to toggle and read through. Which is not very time efficient or a desirable feature. 
-**D. Professional Tone:** This person does use very professional language, but all the sections of commentary are very brief throughout the site. 
+**D. Professional Tone:** This person does use very professional language in this case he does not use very casual words like you would when talking to a friend. All the sections of commentary are very brief throughout the site. 
 
 ### Task B - Product Analysis
 https://patents.google.com/patent/US20040226574A1/en. 
@@ -41,7 +41,7 @@ Here is a relative view of the additional polymer pieces glued to the original o
 ## Decide
 **1. Homepage Identity:** When visiting my homepage, a reader needs to immediately understand who this professional portfolio belongs to, and what the contents are about mechanical engineering assignments for MEGR 2157. 
 
-**2. One Intentional Customization:** The one I am identifying is the assignment section. I would like to not only keep the "A01" part but also add the assignment name. This will help my sight visitors be able to quickly identify each assignment and the contents. To do this I accessed the VS Code for the file and directly went in and changed the names. 
+**2. One Intentional Customization:** The one I am identifying is the assignment section. I would like to not only keep the "A01" part but also add the assignment name. This will help my sight visitors be able to quickly identify each assignment and the contents. To do this I accessed the mkdocs.ylm file and changed the names.  
 
 **3. Your Documentation Standard:** For this portfolio I am not only committing myself but my readers as well, a clear and professional tone when explaining decisions and processes. I will also commit to providing enough information to understand the content.
    
