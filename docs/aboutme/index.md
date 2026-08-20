@@ -1,5 +1,5 @@
 # About Me!
-![Description of image](1761330116874.jpg)
+![Description of image](unnamed.jpg)
 
 Hi everyone! My name is Gracie Steelmon, I'm a 3rd-year mechanical engineering student at the University of North Carolina at Charlotte. I plan to use this page as way of communication to others about my assignments for MEGR 2157! 
 
