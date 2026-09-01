@@ -1,5 +1,5 @@
 # A2 - Design with Basic Stresses
-
+ 
 ## Objectives
 - Design a lightweight planar truss using A500 steel or an alternative material.
 - Create free body diagrams (FBDs) for joints and critical pins.
