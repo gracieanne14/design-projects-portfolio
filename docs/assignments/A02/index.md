@@ -1,15 +1,15 @@
 # A2 - Design with Basic Stresses
 
 ## Objectives
-**-** Design a lightweight planar truss using A500 steel or an alternative material.
-**-** Create free body diagrams (FBDs) for joints and critical pins.
-**-** Calculate the required cross-sectional area of truss elements with a safety factor.
-**-** Determine pin sizes based on shear forces with a safety factor.
-**-** Solve equations symbolically and numerically for both truss and pin design.
-**-** Estimate the total weight of the truss and pins.
-**-** Create a CAD model with accurate dimensions and connections.
-**-** Compare CAD weight predictions with hand calculations.
-**-** Document key engineering lessons learned from the process.
+- Design a lightweight planar truss using A500 steel or an alternative material.
+- Create free body diagrams (FBDs) for joints and critical pins.
+- Calculate the required cross-sectional area of truss elements with a safety factor.
+- Determine pin sizes based on shear forces with a safety factor.
+- Solve equations symbolically and numerically for both truss and pin design.
+- Estimate the total weight of the truss and pins.
+- Create a CAD model with accurate dimensions and connections.
+- Compare CAD weight predictions with hand calculations.
+- Document key engineering lessons learned from the process.
 
 
 For this assignment, I was tasked with designing and 3D modeling a truss given specific parameters. 
@@ -17,7 +17,7 @@ For this assignment, I was tasked with designing and 3D modeling a truss given s
 ## 2. Designing Overall Truss Geometry
 ![Description of image](IMG_6187.jpeg)
 ### a. 
-**i.)** When I first read through the assignment parameters. I drew out the given template on a sheet of paper. From there I started sketching a truss. I drew the first thing that came to find. Note that this was done without any research and just from imagination. When you sketch a design it is always imperative to label your axis. This is important because you can relatively change them whenever you would like. I wrote down all of the known requirements of the truss as well. I wrote down all of the lengths of each section. My next natural step to take was solving for the reaction forces for the external points. These are done using the 2 equilibrium equations we learned in statics. After these reaction forces were solved. 
+**i.)** When I first read through the assignment parameters. I drew out the given template on a sheet of paper. From there I started sketching a truss. I drew the first thing that came to mind. Note that this was done without any research and just from imagination. When you sketch a design it is always imperative to label your axis. This is important because you can relatively change them whenever you would like. I wrote down all of the known requirements of the truss as well. I wrote down all of the lengths of each section. My next natural step to take was solving for the reaction forces for the external points. These are done using the 2 equilibrium equations we learned in statics.
 ![Description of image](IMG_6188.jpeg)
 After these forces and angles were solved for, I remembered a key step in trusses. Although this could be a step in backtracking, it is always good to take a moment and go back to apply what you have learned. I used the statically determinate formula. 2J=R+M. Having a truss that is statically determinate for this assignment is so important in the way that you will be able to solve for your unknown’s reactions and internal members! This equation is defined a J = # of joints, M = # of members, and R = # of unknown reactions. Once I saw both sides were equal to each other I knew I was good to go forward with my designing. 
 
@@ -65,13 +65,25 @@ Here is my truss with no pins.
 ![Description of image](solidworksa2.2.jpeg)
 To assist with the weight parameters, I previously calculated the minimum diameter needed for my truss, assumed it was cylindrical. Here I made the inside diameter my D-min value. I set the outside diameter to 0.02m just for added weight and additional measures to make sure I had that D-min intact. 
 ![Description of image](swa2.jpeg)
-The predicted weight was 3.05kg so I am sitting above, I think this is fine for this intance. I do think not being able to use the A500 caused some wrong calculations, although the principle remains the same. 
+The predicted weight was 3.05kg so I am sitting above, I think this is fine for this intance. I do think not being able to use the A500 caused some wrong calculations, although the principle remains the same.
+
+# My Solid Works Files:
+[Configuration File](pin.SLDPRT)
+[Configuration File](Truss.SLDPRT)
+[Configuration File](truss_assembly.SLDASM)
 
 # 5. 
-A major engineering lesson I learned is to not underestimate simple instructions. This assignment forced me to learn Solid works within 2 days, which can be extremely difficult having other responsibilities. It also taught me that I need to pay attention to my drawings more. I also can work on my cading skills as I came across many issues for this assignment. I did getting to use my newfound knowledge from my Solids class. 
+A major engineering lesson I learned is to not underestimate simple instructions. This assignment forced me to learn Solid works within 2 days, which can be extremely difficult having other responsibilities. It also taught me that I need to pay attention to my drawings more. I also can work on my cading skills as I came across many issues for this assignment. I did getting to use my newfound knowledge from my Solids class.
+One additional thing I would like to point out is I had previously downloaded the intructions onto my computer and started the assignment early. Later in the next week someone deleted the intructions from the canvas site which was extreamly frustrating. Once they released the instructions again some of the work changed, I had to go back in and backtrack. Although this was extreamly not ideal, things like this can happen in industry, everything is always changing. This was a good lesson in paying attention to detail, and adapting and overcoming certain parameters!
 
 # 2157 Students Only:
 ### Likelihood of Failure Modes in Truss Components
-For doing this research I got on Google Scholar which is a trusted website for researching. I typed in the prompt above "Likelihood of Failure Modes in Truss Components" and got this article - https://www.sciencedirect.com/science/article/pii/S0167473024000195
+For doing this research I decided to use Google Gemini AI. *This use of AI does not replace my own critical thinking in no way shape or form. I included my exact prompts and responses in real time to this github site for this question. 
+![Description of image](geminipt.jpeg)
 ### Part 1 - Truss Members
-**1.-Identify** 
+![Description of image](geminipt1.jpeg)
+![Description of image](geminipt1.1.jpeg)
+### Part 2 - Pin Connections
+![Description of image](geminipt2.jpeg)
+
+This assignment took me around 12hrs to complete. 
