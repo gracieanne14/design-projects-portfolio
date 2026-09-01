@@ -32,7 +32,7 @@ After these forces and angles were solved for, I remembered a key step in trusse
 **iv.)** In the same image above, I also calculated the numerical forces. Doing this along side my symbolic work ensured that I could trace my steps back, and that I could also work side by side my principals. 
 
 ### B. 
-**i.)** ![Description of image]()
+**i.)** ![Description of image](known 1.jpeg)
 
 **ii.)** ![Description of image](IMG_6194.jpeg)
 Calculating the minimum cross sectional area of the bars is important to to define safe boundarys. The formula being used is Areq = (Fmax x Safety Factor)/yield shear strenght. For this part I was provided with the Safety Factor of 3.5 and the yield shear strenght of a hardened tool steel at 170ksi with a density of 0.278 lb/cu in. To help determine my Fmax, I can look back upon solved forces in method of joints. I have two joints with a max load of 33.33 kN. These two joints will share the maximum load of the truss. Once I got my calculations, I converted my units to cm to allow for better CAD dimensions. My Areq came out to be 0.9954cc.
@@ -44,7 +44,7 @@ For the weight of the truss I used the formula W = DxLxAxG. Where G = 9.81m/s^2,
 
 ## 3. Pin Work
 ### A.
-**i.)**![Description of image]()
+**i.)**![Description of image](known 2.jpeg)
 Here I listed all of my knowns and unknowns for this section!
 
 **ii.)** ![Description of image](IMG_6196.jpeg)
@@ -57,3 +57,7 @@ For the minimum cross sectional area of the pins I used the formula Amin = (Fmax
 
 
 # 4. 
+### A. 
+here is my truss minus the pins!
+![Description of image](truss no pins.jpeg)
+
