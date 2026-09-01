@@ -58,6 +58,25 @@ For the minimum cross sectional area of the pins I used the formula Amin = (Fmax
 
 # 4. 
 ### A. 
+![Description of image](IMG_6221.jpeg)
+Since Solidworks provided by UNCC did not offer A500 strucutral steel I decided to use the ASTM A36 Steel. Using the material properties from this I calculated the mass needed for my truss once again. 
+
 here is my truss minus the pins!
-![Description of image](truss no pins.jpeg)
+![Description of image](trussnopins.jpeg)
+
+![Description of image](solidworksa2.2.jpeg)
+to help with the weight, I previously calculated the min. diameter needed for my truss, assumed it was cylndricall. Here I made the inside diameter my Dmin value. I set the outside diameter to 2 just for added weight and aditional measures to make ure I had that Dmin. 
+![Description of image](swa2.jpeg)
+The predicted weight was 3.05kg so I am sitting above, which is fine for this instance. I do think not being able to use the A500 caused some wrong calculations, althought the principle remains the same! 
+
+
+# 5. 
+A major engineering lesson I learned is to not underestimate simple instructions. This assignment forced me to learn Solid works within 2 days, which can be extreamly difficult having other responsibilites. It also taught me that I need to pay attention to my drawings more. I also can work on my cading skills as I came across many issues for this assignment. I enjoyes getting to use my newfound knowledge from my Solids class. 
+
+
+# 2157 Students Only:
+### Likelihood of Failure Modes in Truss Components
+
+For doing this research I got on Google Scholar which is a trusted website for researching. I typed in the prompt above "Likelihood of Failure Modes in Truss Components" and got this article - https://www.sciencedirect.com/science/article/pii/S0167473024000195
+### Part 1
 
