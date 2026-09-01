@@ -68,9 +68,9 @@ To assist with the weight parameters, I previously calculated the minimum diamet
 The predicted weight was 3.05kg so I am sitting above, I think this is fine for this intance. I do think not being able to use the A500 caused some wrong calculations, although the principle remains the same.
 
 # My Solid Works Files:
-[Configuration File](pin.SLDPRT)
-[Configuration File](Truss.SLDPRT)
-[Configuration File](truss_assembly.SLDASM)
+[pin.SLDPRT](pin.SLDPRT)
+[Truss.SLDPRT](Truss.SLDPRT)
+[truss_assembly.SLDASM](truss_assembly.SLDASM)
 
 # 5. 
 A major engineering lesson I learned is to not underestimate simple instructions. This assignment forced me to learn Solid works within 2 days, which can be extremely difficult having other responsibilities. It also taught me that I need to pay attention to my drawings more. I also can work on my cading skills as I came across many issues for this assignment. I did getting to use my newfound knowledge from my Solids class.
