@@ -36,7 +36,7 @@ From there I noted that from my parameters list given that one of the sides of t
 Once my fixed position was set and my force was applied, I made a mesh of my beam. 
 ![Mesh](mesh.jpeg.jpg)
 Once the mesh was generated I could press run, and run my simulation. 
-![von]()
+![von](vongraph.png)
 ![Deflection](graph2.jpeg.jpg)
 
 ![stress and safety factor calculation](IMG_0288.jpeg)
@@ -57,7 +57,8 @@ I calculated my max stress allowed as well as my safety factor based on calculat
 
 
 ## 2157 Students Only - Modify Design Parameters 
-
+When tasked to modify parameters I instincivly increased all of my values since I was already at the tolerance limit for the force, and my diameter was pretty small. Ofcource since I increased these parameters, my length overall increased, drastically too. 
+![2157section](2157section.jpeg)
 
 
 
