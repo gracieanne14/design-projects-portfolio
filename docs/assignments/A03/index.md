@@ -17,7 +17,7 @@ I opened up the equations tab in solid works on the left hand bar tab and insert
 ![Equation list from SW](equationsheet.jpeg.jpg)
 
 **C.)** Once all my equation values were completed I sketched a simple circle. I toggled on smart dimensions and when it was time to enter the dimension I wanted, I pressed the equal (=) sign on my computer and assigned the value to my diameter value from my equation sheet. I know that my dimension comes from the equation sheet by seeing the summation symbol beside the value! 
-![Circle Sketch]()
+![Circle Sketch](Circle.jpeg.jpg)
 
 From there I did an extrusion, and same as the dimesnions go, I set my extrustion length to be the calculated length from my equation list. 
 **Note** - putting all of your individual values in and then writing simple code to compute the formula makes this task easier in the sence of going in and changing values. That way if you wanted to change something all you have to change is that one value and it will do the computaition for you. 
@@ -49,6 +49,10 @@ I calculated my max stress allowed as well as my safety factor based on calculat
 **iii.)*** I trust my hand calculated values more than Solid Works. Although I am a young enginener, software can always have hidden problems. I'm not exactly sure when this version of solid works was released. 
 ### B.
 ![Pin Work](IMG_0290.jpeg)
+
+## My CAD File:
+A3_Beam.SLDPRT
+
 
 ## 2157 Students Only - Modify Design Parameters 
 
