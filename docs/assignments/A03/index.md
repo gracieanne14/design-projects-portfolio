@@ -44,7 +44,7 @@ I calculated my max stress allowed as well as my safety factor based on calculat
 
 
 ## 3. Design Reflection
-### A. My axial deflection ended up right on the tolerance edge for the assignment, which is okay! 
+**A.)** My axial deflection ended up right on the tolerance edge for the assignment, which is okay! 
 ![Deflection calcs](IMG_0289.jpeg)
 
 **i.)** There is not a absolute huge meaningful discrepancy, yet I still would like to point it out. My theoretical calculations are larger than my values for the FEA analysis and I think I would like it to stay there. 
