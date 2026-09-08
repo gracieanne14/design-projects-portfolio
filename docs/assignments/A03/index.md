@@ -36,6 +36,8 @@ From there I noted that from my parameters list given that one of the sides of t
 Once my fixed position was set and my force was applied, I made a mesh of my beam. 
 ![Mesh](mesh.jpeg.jpg)
 Once the mesh was generated I could press run, and run my simulation. 
+![von]()
+![Deflection]()
 
 ![stress and safety factor calculation](IMG_0288.jpeg)
 I calculated my max stress allowed as well as my safety factor based on calculated values and graph values from the FEA. 
@@ -51,7 +53,7 @@ I calculated my max stress allowed as well as my safety factor based on calculat
 ![Pin Work](IMG_0290.jpeg)
 
 ## My CAD File:
-A3_Beam.SLDPRT
+[A3_Beam](A3_Beam.SLDPRT)
 
 
 ## 2157 Students Only - Modify Design Parameters 
