@@ -29,8 +29,8 @@ For the material, I took the aluminum data sheet provided in the assignment and 
 ## Part 2 - FEA Analysis
 
 From there I noted that from my parameters list given that one of the sides of the bar must be fixed, so I added a fixed position in Solid Works. From there, I added my force on the other side, making sure that the force was pointing in the right direction is imperative to this assignment. 
-![Fixated Feature]()
-![Force in direction](IMG_0287.jpeg)
+
+![Force in direction](force.jpeg.jpg)
 
 
 Once my fixed position was set and my force was applied, I made a mesh of my beam. 
