@@ -37,7 +37,7 @@ Once my fixed position was set and my force was applied, I made a mesh of my bea
 ![Mesh](mesh.jpeg.jpg)
 Once the mesh was generated I could press run, and run my simulation. 
 ![von]()
-![Deflection]()
+![Deflection](graph2.jpeg.jpg)
 
 ![stress and safety factor calculation](IMG_0288.jpeg)
 I calculated my max stress allowed as well as my safety factor based on calculated values and graph values from the FEA. 
