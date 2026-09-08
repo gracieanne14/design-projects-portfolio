@@ -61,6 +61,6 @@ I calculated my max stress allowed as well as my safety factor based on calculat
 ## 2157 Students Only - Modify Design Parameters 
 When tasked to modify parameters I instincivly increased all of my values since I was already at the tolerance limit for the force, and my diameter was pretty small. Ofcource since I increased these parameters, my length overall increased, drastically too. 
 ![2157section](2157section.jpeg)
-
+This assignment took me ~4 hours
 
 
