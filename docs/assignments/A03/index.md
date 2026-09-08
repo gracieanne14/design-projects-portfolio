@@ -14,18 +14,18 @@ I decided to choose 3oolbf for my force value, and o.25 for my diameter value. U
 ![Initial Calculations](IMG_0286.jpeg)
 
 I opened up the equations tab in solid works on the left hand bar tab and inserted all of my values. 
-![Equation list from SW](Screenshot_2026-09-08_120247.jpg)
+![Equation list from SW](equationsheet.jpeg.jpg)
 
 **C.)** Once all my equation values were completed I sketched a simple circle. I toggled on smart dimensions and when it was time to enter the dimension I wanted, I pressed the equal (=) sign on my computer and assigned the value to my diameter value from my equation sheet. I know that my dimension comes from the equation sheet by seeing the summation symbol beside the value! 
-![Circle Sketch](Screenshot_2026-09-08_120358.jpg)
+![Circle Sketch]()
 
 From there I did an extrusion, and same as the dimesnions go, I set my extrustion length to be the calculated length from my equation list. 
 **Note** - putting all of your individual values in and then writing simple code to compute the formula makes this task easier in the sence of going in and changing values. That way if you wanted to change something all you have to change is that one value and it will do the computaition for you. 
-![Extrusion Length](Screenshot_2026-09-08_120419.jpg)
+![Extrusion Length](extrude.jpeg.jpg)
 
 ## Material
 For the material, I took the aluminum data sheet provided in the assignment and inserted those parameters into Solid Works as a new material. This was my calculations will line up with my FEA. 
-![Alt text describing image](Screenshot_2026-09-08_121556.jpg)
+![Alt text describing image](material.jpeg.jpg)
 ## Part 2 - FEA Analysis
 
 From there I noted that from my parameters list given that one of the sides of the bar must be fixed, so I added a fixed position in Solid Works. From there, I added my force on the other side, making sure that the force was pointing in the right direction is imperative to this assignment. 
@@ -34,7 +34,7 @@ From there I noted that from my parameters list given that one of the sides of t
 
 
 Once my fixed position was set and my force was applied, I made a mesh of my beam. 
-![Mesh](Screenshot_2026-09-08_120644.jpg)
+![Mesh](mesh.jpeg.jpg)
 Once the mesh was generated I could press run, and run my simulation. 
 
 ![stress and safety factor calculation](IMG_0288.jpeg)
