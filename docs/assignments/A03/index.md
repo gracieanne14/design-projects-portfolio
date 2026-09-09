@@ -46,6 +46,7 @@ Once I had all my values from the FEA, I calculated what my actual stress and sa
 
 ## 3. Design Reflection
 **A.)** My axial deflection ended up right on the tolerance edge for the assignment, which is great! 
+These are the calculations for the deflection percentage. 
 ![Deflection calcs](IMG_0289.jpeg)
 
 **i.)** There is not a absolute huge meaningful discrepancy, yet I still would like to point it out. My theoretical calculations are larger than my values for the FEA analysis and I think I would like it to stay there. 
