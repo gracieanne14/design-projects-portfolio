@@ -20,7 +20,7 @@ I opened the equations tab in solid works on the left-hand bar tab and inserted 
 ![Circle Sketch](Circle.jpeg.jpg)
 
 From there I did an extrusion, and same as the dimensions go, I set my extrusion length to be the calculated length from my equation list. 
-**Note** - putting all your individual values in and then writing simple code to compute the formula makes this task easier in the sense of going in and changing values. That way if you want to change something all you must change is that one value and it will do the computation for you. 
+**Note** - putting all your individual values in and then writing simple code to compute the formula makes this task easier in the sense of going in and changing values. That way if you want to change something, all you must change is that one value and it will do the computation for you. 
 ![Extrusion Length](extrude.jpeg.jpg)
 
 ## Material
@@ -28,23 +28,24 @@ For the material, I took the aluminum data sheet provided in the assignment and 
 ![Alt text describing image](material.jpeg.jpg)
 ## Part 2 - FEA Analysis
 
-From there I noted that from my parameters list given that one of the sides of the bar must be fixed, so I added a fixed position in Solid Works. From there, I added my force on the other side, making sure that the force was pointing in the right direction is imperative to this assignment. 
+From there I noted that from my parameters list given that one of the sides of the bar must be fixed, so I added a fixed position in Solid Works. From there, I added my force on the other side, making sure that the force was pointing in the right direction is imperative to this assignment. I manually entered in my force and made sure my units were correct. This force has to be manually entered instead of calling on it from the equation sheet, that's just the way solid works is. 
 ![Fixed](fixed.png)
 ![Force in direction](force.jpeg.jpg)
 
 
-Once my fixed position was set and my force was applied, I made a mesh of my beam. 
+Once my fixed position was set and my force was applied, I made a mesh of my beam. Making a mesh for your part is important so it breaks your part into smaller components. This allows for the software to bridge the gap between physical objects and the actual software. 
 ![Mesh](mesh.jpeg.jpg)
-Once the mesh was generated, I could press run and run my simulation. 
+Once the mesh was generated, I could press run and run my simulation. I ran a Von-Mises Stress graph and a displacement graph. 
 ![von](vongraph.png)
+A Von-Mises FEA will help determine the ductility of the material, so wether it will bend or deform under a load. This information is important to make sure my max stress was lower than the strenght of aluminum. As you can see from the data and my calculations in a later image that I am in the range. 
 ![Deflection](graph2.jpeg.jpg)
-
+A deflection FEA in Solidworks is allowing us to see the delection of the beam when the load is applied. One of my assignment parameters was to have a max deflection of 0.009in. From the data shown my max delection is under that! 
 ![stress and safety factor calculation](IMG_0288.jpeg)
-I calculated my max stress allowed as well as my safety factor based on calculated values and graph values from the FEA. 
+Once I had all my values from the FEA, I calculated what my actual stress and safety factor was and compared that to my data. 
 
 
 ## 3. Design Reflection
-**A.)** My axial deflection ended up right on the tolerance edge for the assignment, which is okay! 
+**A.)** My axial deflection ended up right on the tolerance edge for the assignment, which is great! 
 ![Deflection calcs](IMG_0289.jpeg)
 
 **i.)** There is not a absolute huge meaningful discrepancy, yet I still would like to point it out. My theoretical calculations are larger than my values for the FEA analysis and I think I would like it to stay there. 
@@ -59,7 +60,7 @@ I calculated my max stress allowed as well as my safety factor based on calculat
 
 
 ## 2157 Students Only - Modify Design Parameters 
-When tasked to modify parameters I instincivly increased all of my values since I was already at the tolerance limit for the force, and my diameter was pretty small. Ofcource since I increased these parameters, my length overall increased, drastically too. 
+When tasked to modify parameters, I instinctivly increased all of my values since I was already at the tolerance limit for the force, and my diameter was pretty small. Of-cource since I increased these parameters, my length overall increased, drastically too. 
 ![2157section](2157section.jpeg)
 This assignment took me ~4 hours
 
