@@ -38,7 +38,7 @@ https://www.aliexpress.com/item/1005005721086783.html
 https://www.dhgate.com/product/steel-42-stepper-motor-mount-bracket-nema17/996764543.html
 -also the one from class
 ## **Isometric Drawing:**
-Once I was finished with solving all of my values I drew a isometric sketch of my part, that was I can use it as a reference in SolidWorks!
+Once I was finished with solving all of my values I drew a isometric sketch of my part, that way I can use it as a reference in SolidWorks!
 ![isosketch](iso_sketch.jpeg) 
 
 ## **SolidWorks Model of Motor Mount:**
