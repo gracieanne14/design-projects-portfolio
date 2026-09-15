@@ -73,6 +73,7 @@ I made sure to add my material specification and all deminsions needed to recrea
 ## **CAD Files:**
 [A4 Motor Mount PART](A4_Motor_Mount.SLDPRT)
 [A4 Motor Mount DRAWING](A4_Motor_Mount_drawing.SLDDRW)
+[A4 Motor Mount DRAWING PDF](A4_Motor_Mount_drawing.pdf)
 
 ## **Lesson Learned:**
 For this assignment I decided to complete the work before uploading, that way I would not have to keep going back and making so many changes. It makes the workflow much more simpler doing it this way. I also got to learn more about solid mechanics, which is a class I'm currently in so I'm in the process of learning! Initially I made the mistake of only solving for Stiffness on one beam and then solving for strength on another, but I quickly caught my mistake after reading the instructions again...before I started cading anything (close call there!) 
