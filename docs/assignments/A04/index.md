@@ -7,12 +7,12 @@ https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-
 
 ![Intro to the assignment](intro_assignment.jpeg)
 
-# **Material**
+## **Material**
 Before I started on any designing, I decided to do some research on my material selection, for this assignment I choose to use PLA. Below in the image provided is some basic information. Understanding your material you are using is essential to understand the manufacturing process that needs to proceed!
 
 ![material_properties](material_properties.jpeg)
 
-# **Feature 1:**
+## **Feature 1:**
 For feature one, I started by identifying which piece of my mount was actually feature 1. From there I listed all of my knowns and unknowns. This allows me to develop a baseline for the assignment, for this feature. 
 ![knowns and unknows for f1](know_unknowns.jpeg)
 
@@ -25,23 +25,23 @@ After solving the forces, I found my Max normal stress so I can apply it to my e
 
 **NOTE** - all my values are in mm. I decided to keep them since the values from the drawing of the motor is in millimeters ( and the fact inches for this assignment was a reach). 
 
-# **Feature: 2**
+## **Feature: 2**
 For feature 2, I essentially repeated the workflow. I first listed all my knowns and unknowns.
 ![f2intro](feature_2_intro.jpeg)
 
 Next (like F1) I drew my FBD. For solving the forces on this one you had to pay CLOSE attention. As you can see from the note on my drawing, the bottom end was free to bend. This means it was not attached. I also decided to make my holes a 2mm offset from the bottom and side walls. I just randomly choose this value. Solving for the moment was a formula I had to remember from statics! From there, just like F1 I had to solve my max normal stress so I could apply it to my equations. Once solving both strength and stiffness I compared my values (just like F1) and found that my strength value was larger than my stiffness value. So, my final B2 value is **2.167mm**. 
 ![f2FBD](feature_2_FBD.jpeg) 
 
-# **Motor Mount Inspiration**
+## **Motor Mount Inspiration**
 Linked here is some inspiration for my mount I researched.
 https://www.aliexpress.com/item/1005005721086783.html
 https://www.dhgate.com/product/steel-42-stepper-motor-mount-bracket-nema17/996764543.html
 -also the one from class
-# **Isometric Drawing:**
+## **Isometric Drawing:**
 Once I was finished with solving all of my values I drew a isometric sketch of my part, that was I can use it as a reference in SolidWorks!
 ![isosketch](iso_sketch.jpeg) 
 
-# **SolidWorks Model of Motor Mount:**
+## **SolidWorks Model of Motor Mount:**
 For this model I used my knowledge of the parametric equations, I entered some of the values I calculated and used them when modeling. 
 ![parametric](Parametric_equations.jpg) 
 
@@ -65,12 +65,12 @@ To prevent any added deflection, I added two side supports.
 ![partFinal](final_parts.jpg)
 
 
-# **2157 Students Only:**
+## **2157 Students Only:**
 For this section, I was asked to create a drawing for my part...
 ![Partdrawing](drawing.jpg)
 I made sure to add my material specification and all deminsions needed to recreate this part. I also toggled on my hidden lines so you could see everything you need to. 
 
-# **CAD Files:**
+## **CAD Files:**
 [A4 Motor Mount PART](A4_Motor_Mount.SLDPRT)
 [A4 Motor Mount DRAWING](A4_Motor_Mount_drawing.SLDDRW)
 
