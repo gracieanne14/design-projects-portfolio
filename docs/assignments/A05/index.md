@@ -47,35 +47,49 @@ After I gathered all of my information I calculated a stress and stiffness analy
 
 ### A-Conclusion
 After solving both algebraically and numerically, I found that the stress value was larger than the stiffness value so we could go with that one. From there I made the decision to round up to 1in. for my nominal dimension. Using the calculated dimension I double checked my work to make sure the value would withstand my requirments.
+![a conclusion](A_Conclusion.jpeg)
 
 ## Feature B
 ### Initial Information:
-![a analysis](B_Analysis.jpeg)
+For feature B we were told to treat it like an axial loaded bar. For this feature I used my values from feature A to carry on, I did this for all of my features foward in this assignment. 
+![b analysis](B_Analysis.jpeg)
 
 ### B-Stress & Stiffness Analysis
+![bwork](B_Works.jpeg)
 
 ### B-Conclusion
+After conducting my analysis exactly like feature a, my stress value also governed for this feature. I decided to round my nomial dimesnion up to 0.250in. 
+![bconclusion](B_Conclusion.jpeg)
 
 ## Feature C
 ### Initial Information: 
+![c analysis](C_analysis.jpeg)
 
 ### C-Stress & Stiffness Analysis
+![c analysis](C_Work.jpeg)
 
 ### C-Conclusion
+![c conclusion](C_conclusion.jpeg)
 
 ## Feature D
 ### Initial Information:
+![d analysis](D_analysis.jpeg)
 
 ### D-Stress & Stiffness Analysis
+![d work](D_work.jpeg)
 
 ### D-Conclusion
+![d conclusion](D_Conclsion.jpeg)
 
 ## Feature E
 ### Initial Information:
+![e analysis](E_Analysis.jpeg)
 
 ### E-Stress & Stiffness Analysis
+![e work](E_Work.jpeg)
 
 ### E-Conclusion
+![e conclusion](E_Conclusion.jpeg)
 
 ## Lessons Learned
 ### Governing Failure Mode:
