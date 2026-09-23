@@ -91,9 +91,45 @@ After conducting my analysis exactly like feature a, my stress value also govern
 ### E-Conclusion
 ![e conclusion](E_Conclusion.jpeg)
 
-## Lessons Learned
-### Governing Failure Mode:
-### Error propagaation:
-### Assumption Sensativity:
+## Drawings
+### Stress
+![stress](stress.jpg)
 
-## 2157 Students Only
+### Stiffness
+![stiffness](stiffness.jpg)
+
+I would like to note: These dimensions may be wrong. I am currently in the process of confusing myself so I may need to go back in and revise these drawings some :)
+
+## Lessons Learned
+For this assignment I learned how to apply my solid mechanics knowledge. With midterms approaching very fast (as in the next two weeks).. I am getting a little frustrated with these assignments, but I am taking it as an oppertunity to put in play all of this information I am learning, and turning it into a tool to study with. 
+
+### Governing Failure Mode:
+For every single feature, stress governed the dimensions. 
+
+### Error propagation:
+The forces became loading forces for all of the other features, they just built on one another. I am not sure if what I did for the force/2 was correct, maybe for feature A I should have kept it the same since it was a distributed load. This would change my dimesnions for A, which I think would've changed everything else. 
+
+### Assumption Sensitivity:
+For the material assumption. I think one important missing piece is the enviorment conditons. For the sake of this assignment they were left out to keep it simple. Yet in certain enviorments you want to chose material based on conditions, thermal expansion, how much sunlight it's getting, etc. I think maybe a different material would be choosen based on those. Just a small food for thought I like to consider. 
+
+## 2157 Students Only - Fits
+**1.**
+![fits](fits.jpeg)
+
+**2.** 
+a. For this section of the assignment I used my Machinery's Hankbook Volume 32
+This feature was desigated to be a Running/Sliding fit. From my calculation I am choosing a Class RC 4 Fit. With tolerances from the H8 hole. These charts are from page 645 in the book. 
+
+![clearnece](clearencetype.jpeg)
+
+b. 
+![tolerance grades](tolerance_grades.jpg)
+
+for this feature I will choose the reaming or boring manufacturing process. 
+
+**3.**
+a. For the 1 in shaft I am choosing the FN 1 class fit, with the tolerances of Hole H7. 
+
+b. for this feature I will choose the reaming process. 
+
+
