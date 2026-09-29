@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – Bracket Drawing [Drawings part 1]
 
 ## Objective
 
