@@ -81,7 +81,7 @@ For this design I still have some stress/deformation in the bottom, so the ribs 
 ![](design3.jpg)
 
 #### D3-1
-![](design3_run1_collage.jpg)
+![](design3_run1_collage.jp)
 #### D3-2
 ![](design3_run2_colllage.jpg)
 #### D3-3
@@ -111,9 +111,34 @@ This did help a little, but it made that bottom edge expirence stress...I know i
 Going foward I would pay more attention to the initial design process of the bracket. (Assignment A5) Some things I did wrong could be choosing too much force, making my dimensions too long initially. This assigment allowed me to review more of the details involved with an FEA which is extreamly helpful. I know for a fact that this can help me in industry. I honestly am not happy with my design, and if I had more real world context I could design it better. This shows light on how much those other details really matter! This assignment was intensive in its nature and it took me around 5 hours to complete. 
 
 ## 2157 Students only:
--assignment does not clarify what needs to be done here (will update before due date)
+We were also assigned to complete these same processes for the linkage we also made. For this I decided to assemble my parts and then run the simulation
+
+![](design4_data.jpg)
+
+### Initial Work
+**For this design I made the fixed geometry the same on the bracket. I added the force into the hole point downward becasue I assumed the forces would be applied there knowing some background about the actual part. 
+![](Force_in_hole.jpg)
+
+From there I ran the simulaltion just like I did on the bracket itself. I created a mesh and then generated all of the plots. 
+
+### Linkage Run 1
+![](design1_link_run1.png)
+
+### Linkage Run 2 
+![](design1_link_run2.png)
+
+### Linkage Run 3
+![](design1_link_run3.png)
+
+### Linkage Data:
+![](link_data.jpg)
+
+### Linkage Conclusion:
+For the link I was expected it to truly bend all out of shape, espcially since the bracket did. To my suprise the link did not absolutely bend all out of shape, and the safety factor was yet higher. I feel as if I were to make any changes it would only harm. The one thing I would like to point out is the size of my linkage hole at the bottom. I think that the part was desiged right, it was just modeled wrong with the size of the diameter. This is one design flaw I would most certainly go back in and change if I were to have more time to complete this assignment. 
 
 ## CAD FIles:
 [A6 Bracket](A6_Bracket_Design.SLDPRT)
 **-** My .CWR files are too large to insert, but you can see my design changes on this cad file! 
+
+[A6 Bracket Full Assembly](Assembly_2174_section.SLDASM)
 
