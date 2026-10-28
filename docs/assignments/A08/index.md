@@ -66,7 +66,7 @@ For my material I decided to go with ABS PC. This is a high-performance thermopl
 
 
 ### Lessons Learned/reflections:
-Overall, I think this was the hardest assignment for me this semester thus far. I learned a lot about how to make a full idea come to life in CAD. Cad is something I haven't really taken a huge partition in yet. This absolutely motivates me to start brainstorming ideas of my own for personal projects and modeling them and running simulations and mechanical processes. This is really an eye-opener for what all resources are available to us as mechanical engineers. 
+Overall, I think this was the hardest assignment for me this semester thus far. I learned a lot about how to make a full idea come to life in CAD. Cad is something I haven't really taken a huge partition in yet. This absolutely motivates me to start brainstorming ideas of my own for personal projects and modeling them and running simulations and mechanical processes. This is really an eye-opener for what all resources are available to us as mechanical engineers. This assignment took me around 8 hours. 
 
 ## 2157 Students Only:
 ![](bearing_1_drawing.jpg)
