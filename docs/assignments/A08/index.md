@@ -77,8 +77,8 @@ Overall, I think this was the hardest assignment for me this semester thus far. 
 ![](gearbox_face_Drawing.jpg)
 
 ## CAD Files:
-![Gear Box Housing](Gearbox_Housing_A8.SLDDRW)
-![Final Assembly](Assem1.SLDASM)
-![Gear Box Face](Gearbox_face.SLDASM)
+[Gear Box Housing](Gearbox_Housing_A8.SLDDRW)
+[Final Assembly](Assem1.SLDASM)
+[Gear Box Face](Gearbox_face.SLDASM)
 
 
