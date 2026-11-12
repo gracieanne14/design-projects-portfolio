@@ -48,6 +48,7 @@ For this assignment we will be selecting the 1018 Carbon Steel Percision Acme Le
 ![](beamdeflectionanalysis.jpg)
 
 ### 3.) Multiview Drawing
+![](multiviewsketch.jpg)
 
 ## Talbulating Cost
 
