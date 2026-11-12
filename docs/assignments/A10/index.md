@@ -59,3 +59,5 @@ For this assignment we will be selecting the 1018 Carbon Steel Percision Acme Le
 | 3 | 1 | T-slot framing system | $245.87 | $245.87 | https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48 |
 |   |   |                       | Net Cost: | $540.07 | |
 
+## Lesson Learned:
+From this assignment I have learned how to apply all of the equations and concepts we have learned in the semester thus far. This took me around 5 hours to complete all of the calculations.
