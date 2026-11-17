@@ -37,4 +37,4 @@ For the mesh I ran into several problems. I initially tried to create it doing a
 This FEA did not turn out as bad as I thought. Some design aterations could be to change the material to be stronger. the torque had more effect than the 1kN load did. 
 
 ### CAD Files
-<p><a href="C:\Users\gstee\OneDrive - University of North Carolina at Charlotte\UNCC_Fall_2026\Sophomore Design\A11\Assem2.zip"><strong>Download SolidWorks CAD Assembly</strong></a></p>
+![](Assem2.zip)
