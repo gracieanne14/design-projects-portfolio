@@ -7,7 +7,7 @@ Once I had the bracket on I then needed to decide on screws and nuts to use. The
 ### Fixed Geometry and Loads
 For the fixed geometry I fixed the bottom of the entire bracket down. I did two loads of 1kN each down on the leadscrews. I also applied a torque going the same direction into the holes where the motor will sit at. This torque applied was 24.857 N-M. 
 
-<img width="3094" height="4641" alt="IMG_7871" src="https://github.com/user-attachments/assets/9a6996eb-44a8-4d83-a464-82720e6b1d81" />
+
 
 
 ### Mesh
